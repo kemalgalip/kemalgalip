@@ -53,8 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="1" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
 </div>
 
 ###
