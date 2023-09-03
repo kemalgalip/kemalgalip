@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"  />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="Jest"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"  />
 </div>
 
