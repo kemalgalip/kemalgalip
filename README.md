@@ -41,11 +41,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"  />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="Jest"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"  />
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="Jest"  />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS (Amazon Web Services)"  />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS (Amazon Web Services)"  />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="Nginx"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu"  />
 </div>
 
 ###
