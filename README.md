@@ -46,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"  />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="Jest"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"  />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"  />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="Cloudflare"  />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS (Amazon Web Services)"  />
